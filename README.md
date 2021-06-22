@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinPansuriya
-- 👀 I’m interested in Make a Prediction on Data.
+- 👀 I’m interested in make a Prediction on Data.
 - 🌱 I’m currently learning Data Science, Data Analytics
 - 📫 How to reach me Linkdin - https://www.linkedin.com/in/kevin-pansuriya-375996114/
 
