@@ -23,14 +23,61 @@
 
 ###
 
-<p align="left">🎓 Education: Master's in Data Science (Saint Peter's University) 🎓<br><br>🚀 Industries I've Impacted:<li> E-Commerce & Product Analytics <li>- ⚡ In my free time I ...</p>
+<p align="left">🎓 <b>Education:</b> 
+  <ul><li>Master's in Data Science (Saint Peter's University, New Jersey, USA) 🎓 </li></ul>
+  <ul><li>Bachelor's in Information Technology (Gujarat Technological University, Gujarat, India) 🎓 </li></ul><br> 
+  
+  🚀<b> Professional Experience:</b>
+  <ul><li> Data Analyst - Melee Diamond 💎, New York City, USA 🗽</li></ul>
+  <ul><li> Senior Product Analyst - CereBulb 💻💡, Gujarat, India </li></ul>
+  <ul><li> Junior Product Analyst - CereBulb 💻💡, Gujarat, India </li></ul>
+  <br>
+  🚀<b> Industries I've Impacted:</b>
+  <br><br>
+  <ul><li> E-Commerce & Product Sector 🛒🛍️ </li></ul>
+  <ul><li> Finanace Sector 📈💰📊 </li></ul>
+  <ul><li> Mining & Heavy Machinery ⛏️🪨🚛 </li></ul>
+  </p>
 
 ###
 
+<hr width="100%" size="2" noshade>
+
+###
+🚀<b> Highlights & Achievements:</b>
+  <ul><li> <b>🏆 HackerRank Gold Badge:</b> SQL Champion 🥇</li></ul>
+  <ul><li> 📈 Enhanced order fulfillment accuracy by 20% and reduced lead times by 15%. </li></ul>
+  <ul><li> 🛠 Built interactive dashboards for logistics and supply chain visibility. </li></ul>
+  <br>
+  
+<hr width="100%" size="2" noshade>
+
+###
+
+###
+
+💻<b> Current Focus:</b>
+  <ul><li> 🤖 <b>Data-Driven Innovation:</b> Building predictive models and BI solutions.</li></ul>
+  <ul><li> 🌐 <b>Open Source Projects:</b> Contributing to impactful data visualization tools. </li></ul>
+  <ul><li> 📚 <b>Always learning:</b> Exploring advanced AI and data engineering techniques. </li></ul>
+  <br>
+<hr width="100%" size="2" noshade>
+  
+###
+
+###
+
+🧠<b> Fun Facts:</b>
+<i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem. You miss 100% of the shots you don't take. </i>
+
+<hr width="100%" size="2" noshade>
+###
+###
 <h3 align="left">🧑‍💻 Language and tools </h3>
 
 ###
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -57,5 +104,4 @@
 </div>
 
 ###
-A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-You miss 100% of the shots you don't take.
+
