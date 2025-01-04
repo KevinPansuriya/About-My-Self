@@ -48,11 +48,8 @@
   <ul><li> <b>🏆 HackerRank Gold Badge:</b> SQL Champion 🥇</li></ul>
   <ul><li> 📈 Enhanced order fulfillment accuracy by 20% and reduced lead times by 15%. </li></ul>
   <ul><li> 🛠 Built interactive dashboards for logistics and supply chain visibility. </li></ul>
-  <br>
   
 <hr width="100%" size="2" noshade>
-
-###
 
 ###
 
@@ -60,7 +57,6 @@
   <ul><li> 🤖 <b>Data-Driven Innovation:</b> Building predictive models and BI solutions.</li></ul>
   <ul><li> 🌐 <b>Open Source Projects:</b> Contributing to impactful data visualization tools. </li></ul>
   <ul><li> 📚 <b>Always learning:</b> Exploring advanced AI and data engineering techniques. </li></ul>
-  <br>
 <hr width="100%" size="2" noshade>
   
 ###
@@ -71,8 +67,6 @@
 <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem. You miss 100% of the shots you don't take. </i>
 
 <hr width="100%" size="2" noshade>
-###
-###
 <h3 align="left">🧑‍💻 Language and tools </h3>
 
 ###
